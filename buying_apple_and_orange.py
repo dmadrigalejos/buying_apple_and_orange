@@ -9,6 +9,8 @@
 apples = int(input("\nPlease input number of apples you wnt to buy: "))
 
 # - Ask user for numbere of oranges
+apples = int(input("\nPlease input number of apples you wnt to buy: "))
+
 # - Assign apple = 20
 # - Assign orange = 25s
 # - Compute total amount
