@@ -18,6 +18,8 @@ apple_price = 20
 orange_price = 25
 
 # - Compute total amount
+total_amout = (apples * apple_price) + (oranges * orange_price)
+
 # - Display total amount
 
 
