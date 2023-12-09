@@ -6,6 +6,8 @@
 # pseudocode
 
 # - Ask user for number of apples
+apples = int(input("\nPlease input number of apples you wnt to buy: "))
+
 # - Ask user for numbere of oranges
 # - Assign apple = 20
 # - Assign orange = 25s
