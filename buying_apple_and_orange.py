@@ -21,5 +21,4 @@ orange_price = 25
 total_amout = (apples * apple_price) + (oranges * orange_price)
 
 # - Display total amount
-
-
+print("\nTotal amout is " + str(total_amout))
